@@ -54,7 +54,7 @@
     <icon gap:platform="ios" height="57" src="res/icon/ios/iapneocon-57.png" width="57" />
 	<icon gap:platform="ios" height="58" src="res/icon/ios/iapneocon-58.png" width="58" />
     <icon gap:platform="ios" height="72" src="res/icon/ios/iapneocon-72.png" width="72" />
-	<icon gap:platform="ios" height="76" src="res/icon/ios/iapneocon-77.png" width="77" />
+	<icon gap:platform="ios" height="76" src="res/icon/ios/iapneocon-76.png" width="76" />
 	<icon gap:platform="ios" height="80" src="res/icon/ios/iapneocon-80.png" width="80" />
 	<icon gap:platform="ios" height="100" src="res/icon/ios/iapneocon-100.png" width="100" />
     <icon gap:platform="ios" height="114" src="res/icon/ios/iapneocon-114.png" width="114" />
@@ -68,6 +68,7 @@
     <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="res/screen/android/screen-mdpi-portrait.png" />
     <gap:splash gap:platform="android" gap:qualifier="port-hdpi" src="res/screen/android/screen-hdpi-portrait.png" />
     <gap:splash gap:platform="android" gap:qualifier="port-xhdpi" src="res/screen/android/screen-xhdpi-portrait.png" />
+	<gap:splash src="splash/ios/Default-568h@2x~iphone.png" gap:platform="ios" width="320" height="480" />
 	<gap:splash src="res/icon/splash/ios/320x480.png"       gap:platform="ios"     width="320" height="480" />
 	<gap:splash src="res/icon/splash/ios/640x960.png"       gap:platform="ios"     width="640" height="960" />
 	<gap:splash src="res/icon/splash/ios/640x1136.png"      gap:platform="ios"     width="640" height="1136" />
