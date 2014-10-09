@@ -42,37 +42,37 @@
     <gap:plugin name="org.apache.cordova.vibration" />
     
 
-    <icon gap:platform="android" gap:qualifier="ldpi" src="res/icon/android/icon-36-ldpi.png" />
-    <icon gap:platform="android" gap:qualifier="mdpi" src="res/icon/android/icon-48-mdpi.png" />
-    <icon gap:platform="android" gap:qualifier="hdpi" src="res/icon/android/icon-72-hdpi.png" />
-    <icon gap:platform="android" gap:qualifier="xhdpi" src="res/icon/android/icon-96-xhdpi.png" />
-    <icon gap:platform="blackberry" src="res/icon/blackberry/icon-80.png" />
-    <icon gap:platform="blackberry" gap:state="hover" src="res/icon/blackberry/icon-80.png" />
+    <icon gap:platform="android" gap:qualifier="ldpi" src="resources/icon/android/icon-36-ldpi.png" />
+    <icon gap:platform="android" gap:qualifier="mdpi" src="resources/icon/android/icon-48-mdpi.png" />
+    <icon gap:platform="android" gap:qualifier="hdpi" src="resources/icon/android/icon-72-hdpi.png" />
+    <icon gap:platform="android" gap:qualifier="xhdpi" src="resources/icon/android/icon-96-xhdpi.png" />
+    <icon gap:platform="blackberry" src="resources/icon/blackberry/icon-80.png" />
+    <icon gap:platform="blackberry" gap:state="hover" src="resources/icon/blackberry/icon-80.png" />
 
-	<icon src="res/icon.png" />
+	<icon src="resources/icon.png" />
 	  <platform name="ios">
               <!-- iOS 7.0+ -->
               <!-- iPhone / iPod Touch  -->
 			   <!-- iOS 6.1 -->
               <!-- Spotlight Icon -->
-			  <icon src="res/ios/icon-small.png" width="29" height="29" />
-              <icon src="res/ios/icon-small@2x.png" width="58" height="58" />
-              <icon src="res/ios/icon-40.png" width="40" height="40" />
-              <icon src="res/ios/icon-40@2x.png" width="80" height="80" />
-			  <icon src="res/ios/icon-50.png" width="50" height="50" />
-              <icon src="res/ios/icon-50@2x.png" width="100" height="100" />
+			  <icon src="resources/ios/icon-small.png" width="29" height="29" />
+              <icon src="resources/ios/icon-small@2x.png" width="58" height="58" />
+              <icon src="resources/ios/icon-40.png" width="40" height="40" />
+              <icon src="resources/ios/icon-40@2x.png" width="80" height="80" />
+			  <icon src="resources/ios/icon-50.png" width="50" height="50" />
+              <icon src="resources/ios/icon-50@2x.png" width="100" height="100" />
               <!-- iPhone / iPod Touch -->
-              <icon src="res/ios/icon-57.png" width="57" height="57" />
-              <icon src="res/ios/icon-57@2x.png" width="114" height="114" />
+              <icon src="resources/ios/icon-57.png" width="57" height="57" />
+              <icon src="resources/ios/icon-57@2x.png" width="114" height="114" />
               <!-- iPad -->
-              <icon src="res/ios/icon-60.png" width="60" height="60" />
-              <icon src="res/ios/icon-60@2x.png" width="120" height="120" />
+              <icon src="resources/ios/icon-60.png" width="60" height="60" />
+              <icon src="resources/ios/icon-60@2x.png" width="120" height="120" />
               <!-- iPad -->
 			  
-              <icon src="res/ios/icon-72.png" width="72" height="72" />
-              <icon src="res/ios/icon-72@2x.png" width="144" height="144" />
-              <icon src="res/ios/icon-76.png" width="76" height="76" />
-              <icon src="res/ios/icon-76@2x.png" width="152" height="152" />
+              <icon src="resources/ios/icon-72.png" width="72" height="72" />
+              <icon src="resources/ios/icon-72@2x.png" width="144" height="144" />
+              <icon src="resources/ios/icon-76.png" width="76" height="76" />
+              <icon src="resources/ios/icon-76@2x.png" width="152" height="152" />
              
               <!-- iPhone Spotlight and Settings Icon -->
 
@@ -80,23 +80,23 @@
         
      </platform>
 	
-	<icon gap:platform="webos" src="res/icon/webos/icon-64.png" />
-    <icon gap:platform="winphone" src="res/icon/windows-phone/icon-48.png" />
-    <icon gap:platform="winphone" gap:role="background" src="res/icon/windows-phone/icon-173.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="res/screen/android/screen-ldpi-portrait.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="res/screen/android/screen-mdpi-portrait.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-hdpi" src="res/screen/android/screen-hdpi-portrait.png" />
-    <gap:splash gap:platform="android" gap:qualifier="port-xhdpi" src="res/screen/android/screen-xhdpi-portrait.png" /> 
-	<gap:splash src="res/splash/Default~iphone.png" gap:platform="ios" width="320" height="480" /> 
-	<gap:splash src="res/splash/Default@2x~iphone.png" gap:platform="ios" width="640" height="960" /> 
-	<gap:splash src="res/splash/Default.png" gap:platform="ios" width="480" height="320" /> 
-	<gap:splash src="res/splash/Default@2x.png" gap:platform="ios" width="960" height="640" /> 
-	<gap:splash src="res/splash/Default-Portrait~ipad.png" gap:platform="ios" width="768" height="1024" /> 
-	<gap:splash src="res/splash/Default-Portrait@2x~ipad.png" gap:platform="ios" width="1536" height="2008" /> 
-	<gap:splash src="res/splash/Default-Landscape~ipad.png" gap:platform="ios" width="1024" height="768" /> 
-	<gap:splash src="res/splash/Default-Landscape@2x~ipad.png" gap:platform="ios" width="2048" height="1496" /> 
-	<gap:splash src="res/splash/Default-568h@2x~iphone.png" gap:platform="ios" width="640" height="1136" />
-    <gap:splash gap:platform="blackberry" src="res/screen/blackberry/screen-225.png" />
-    <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
+	<icon gap:platform="webos" src="resources/icon/webos/icon-64.png" />
+    <icon gap:platform="winphone" src="resources/icon/windows-phone/icon-48.png" />
+    <icon gap:platform="winphone" gap:role="background" src="resources/icon/windows-phone/icon-173.png" />
+    <gap:splash gap:platform="android" gap:qualifier="port-ldpi" src="resources/screen/android/screen-ldpi-portrait.png" />
+    <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="resources/screen/android/screen-mdpi-portrait.png" />
+    <gap:splash gap:platform="android" gap:qualifier="port-hdpi" src="resources/screen/android/screen-hdpi-portrait.png" />
+    <gap:splash gap:platform="android" gap:qualifier="port-xhdpi" src="resources/screen/android/screen-xhdpi-portrait.png" /> 
+	<gap:splash src="resources/splash/Default~iphone.png" gap:platform="ios" width="320" height="480" /> 
+	<gap:splash src="resources/splash/Default@2x~iphone.png" gap:platform="ios" width="640" height="960" /> 
+	<gap:splash src="resources/splash/Default.png" gap:platform="ios" width="480" height="320" /> 
+	<gap:splash src="resources/splash/Default@2x.png" gap:platform="ios" width="960" height="640" /> 
+	<gap:splash src="resources/splash/Default-Portrait~ipad.png" gap:platform="ios" width="768" height="1024" /> 
+	<gap:splash src="resources/splash/Default-Portrait@2x~ipad.png" gap:platform="ios" width="1536" height="2008" /> 
+	<gap:splash src="resources/splash/Default-Landscape~ipad.png" gap:platform="ios" width="1024" height="768" /> 
+	<gap:splash src="resources/splash/Default-Landscape@2x~ipad.png" gap:platform="ios" width="2048" height="1496" /> 
+	<gap:splash src="resources/splash/Default-568h@2x~iphone.png" gap:platform="ios" width="640" height="1136" />
+    <gap:splash gap:platform="blackberry" src="resources/screen/blackberry/screen-225.png" />
+    <gap:splash gap:platform="winphone" src="resources/screen/windows-phone/screen-portrait.jpg" />
     <access origin="*" />
 </widget>
