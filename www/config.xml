@@ -6,6 +6,7 @@
     <author email="support@ipsolutionz.com" href="http://ipsolutionz.com">
        Infotech Proffesional Solutionz Pvt. Ltd.
     </author>
+	<preference name="BackupWebStorage" value="none" />
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.5.0" />
     <preference name="orientation" value="default" />
