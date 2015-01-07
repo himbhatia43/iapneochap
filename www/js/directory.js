@@ -970,6 +970,37 @@ data[913]="Rahul Bagade~23, Madhusudan Gayatri Society Shahpuri Satara~Satara~";
 data[914]="Nitin Ombase~Yash Balrugnalay, Near Bhandari Medical, Civil Hospital Road,  Powainaka, Satara-415001~Satara~";
 data[915]="Kishor Jadhav~3, Suyog Society, Sevagiri Banglow, Sadar Bazar, Satara~Satara~";
 data[916]="Sanjay Ghorpade~Nirmaly Hospital, Plot No 22,  CTS No 523A/1/19, Sadar Bazar, Opp ZP, Satara~Satara~";
+data[917]=" Vinay R Lokhande~Chirayu Hospital, 920, 922/2, Dharmapuri, Tal. Wai~Satara~";
+data[918]=" Kuldip Khanna~Sd-316, Tower Apartments,Pitampra~Delhi~";
+data[919]=" Vandana S Ghorpade~Nirmaly Hospital, Plot No 22, Cts No 523A/1/19, Sadar Bazar, Opp Zp~Satara~";
+data[920]=" Rahul Bagade~23, Madhusudan Gayatri Society Shahpuri~Satara~";
+data[921]=" Nitin Ombase~Yash Balrugnalay, Near Bhandari Medical, Civil Hospital Road,Powainaka~Satara~";
+data[922]=" Anil Kumar Poonia~1G36, Housing Board,Jhunjhunu~Rajasthan~";
+data[923]=" Kishor Jadhav~3, Suyog Society, Sevagiri Banglow, Sadar Bazar~Satara~";
+data[924]=" Sanjay Ghorpade~Nirmaly Hospital, Plot No 22, Cts No 523A/1/19, Sadar Bazar, Opp Zp~Satara~";
+data[925]=" Qureshi Abdulaziz Usman~Ganaga Bld,Flat 21 Narayana Guru Society P.L.Lokhande Marg Chembur (West)~Mumbai~";
+data[926]=" Abdul Malik Jawaid~C/O Engineer Anwar Alam,Panibagh,Kishanganj~Bihar~";
+data[927]=" Chinmay Joshi~Maher Hospital, Agra Road, Dutta Mandir Chowk, Deopur~Dhule~";
+data[928]=" Sreelaxmi L~H.No: 1-7-5/2, Road No: 17D, Chaitanyapuri,Dilsukhnagar~Hyderabad~";
+data[929]=" Mohd  Abdul Aleem~Qbal Nager Parbhani~Maharashtra~";
+data[930]=" Mahaboob Basha Kallur~H.No:8-2-686/7/9/1 Road No:12 Banjara Hills Opp:Prajay Meadows~Hyderabad~";
+data[931]=" Abhishek P V~Ai Krupa Nilayam, H.No: 9-5-32/18, Pragathi Colony Opp:Nimh, Maanivikas Nagar, Old Bowenpally ~Secunderabad~";
+data[932]=" Manish Gupta~H.No. 208, Ward 4, Ram Nagar, Sunam~Sangrur~";
+data[933]=" Ghule Siddharth Shivajirao~Shivtirth Niwas, Vande Mataram Nagar, A/P:Kukana, Tal:Newasa~Ahmednagar~";
+data[934]=" Alpesh Ashok Doshi~Market Yard A/P Modnimb Tal Madha~Solapur~";
+data[935]=" Manindersingh Charansingh Juneja~Opp. Punjab National Bank, Gurunanak Road,~Gondia~";
+data[936]=" Sujata C. Patil C/O C.B.Patil~Flat No- 102, Krishnalya Apartment, Near Gramin Bank, Ganesh Nagar~Latur~";
+data[937]=" Ashwini G. Kene C/O G. R. Kene~At Post: Rohina, Tq: Chakur~Latur~";
+data[938]=" Oleti Tejopratap~Flat No:401, Kamala Nivas, Street No:14, Himayat Nagar,~Hyderabad~";
+data[939]=" Alpesh Ashok Doshi~Market Yard A/P Modnimb Tal Madha~Solapur~";
+data[940]=" Mukesh Gupta~Vatsalya Child Clinic, 143 Scheme No 3, Main Road, Near Ambekdar Circle, Alwar~Rajashthan~";
+data[941]=" Rajesh Gangwar~35R-6/A, Near Durga Bari, Opp Sharad Coaching, Rampur Garden~Bareilly~";
+data[942]=" Palash Gogoi~Doctors Qtr C-4, Nazareth Hospital, Caitumkhrah~Shillong~";
+data[943]=" Chetan Shah~7, Raghuvir Society, Near Prajit Row House, New Umra Road, Umra~Surat~";
+data[944]=" Sachin Shah~26, Amrakunj Society, Opp Chocolate Show Room, Ghed, Dhoo Road~Solan~";
+data[945]=" Charul Bhutwala~C504, Shubham Park, Opp Parshuram Garden, Adajan~Surat~";
+data[946]=" Palash Ranjan Gogoi~Dept Of Pediatrics & Neonatology Nazareth Hospital,~Shillong~";
+data[947]=" Ss Sarawade~Sujata, Block No 36, Sharada Hsg Society, Twin Solapur No 1, Near Water Tank~Solapur~";
 
 // JavaScript Document
 
