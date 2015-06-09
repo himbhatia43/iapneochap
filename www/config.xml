@@ -1,4 +1,4 @@
-<widget id="ips.com.neochap" version="13" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="ips.com.neochap" version="14" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>IAP Neonatology Chapter</name>
     <description>
       Official application of Neonatology Chapter of Indian Academy of Pediatrics. Useful resource for Fellows?, fellowship coordinators and Pediatricians also. We will keep on updating academic contents also. Refer to website www.iapneochap.org for details
@@ -8,7 +8,7 @@
     </author>
 	<preference name="BackupWebStorage" value="none" />
     <preference name="permissions" value="none" />
-    <preference name="phonegap-version" value="3.6.3" />
+    <preference name="phonegap-version" value="3.7.0" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="true" />
