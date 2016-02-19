@@ -4,18 +4,91 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>IAP Neochap | Membership Form</title>
 <link rel="stylesheet" type="text/css" href="include/All_Styles.css"/>
+
 </head>
 
 <body>
 <div id="h1Tag">
   <h1>Membership Form</h1></div>
 <div id="content">
-<form name="membership-form" action="membership-first-step.jsp" method="post" id="membership" onsubmit="return membershipform();" >
+  <script type="text/javascript" language="jscript">
+
+
+
+function membershipform()
+{
+	alert(1);
+		var error = 0 ;
+		var iapNo = jQuery("#iapNo").val();
+		var name = jQuery("#name").val();
+		var gender = jQuery("#gender").val();	
+		var dob = jQuery("#dob").val();	
+		var address = jQuery("#addres").val();	
+		var city = jQuery("#city").val();	
+		var state = jQuery("#state").val();	
+		var mobile = jQuery("#mobile").val();	
+			
+			if(iapNo=="")
+				{
+				alert("Please Fill IAP Membership No. !");
+				$( "#iapNo" ).focus();
+				 return false;
+				}
+			if(name=="")
+				{
+				alert("Please Fill Your Name First !");
+				$( "#name" ).focus();
+				 return false;
+				}
+			if(gender=="")
+				{
+				alert("Please Select Your Gender !");
+				$( "#gender" ).focus();
+				 return false;
+				}
+			if(dob=="")
+				{
+				alert("Please Fill Your DOB !");
+				$( "#dob" ).focus();
+				 return false;
+				}
+			if(address=="")
+				{
+				alert("Please Fill Your Address !");
+				$( "#address" ).focus();
+				 return false;
+				}
+			if(city=="")
+				{
+				alert("Please Fill Your City !");
+				$( "#city" ).focus();
+				 return false;
+				}
+			if(state=="")
+				{
+				alert("Please Fill Your State !");
+				$( "#state" ).focus();
+				 return false;
+				}
+			if(mobile=="")
+				{
+				alert("Please Fill Your Mobile No !");
+				$( "#mobile" ).focus();
+				 return false;
+				}
+			else{
+			return true;
+			}
+			
+	
+		}
+</script>
+<form name="membership-form" action="http://www.iapneochap.org/membership-first-step.jsp" method="post" id="membership" onsubmit="return membershipform();" >
 <table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td height="35" align="center">
           <label for="license" class="ui-hidden-accessible">IAP Membership No:</label>
-          <input type="text" name="license" id="license" placeholder="IAP Membership No" class="input1">
+          <input type="text" name="iapNo" id="iapNo" placeholder="IAP Membership No" class="input1">
           </td>
           </tr>
           <tr>
@@ -24,48 +97,53 @@
           <input type="text" name="name" id="name" placeholder="Name" class="input1">
           </td>
           </tr>
+          <tr>
+          <td height="35" align="center">
+           <label for="gender" class="ui-hidden-accessible">Gender</label>
+          <select name="gender" id="gender" class="input1">
+             					<option value="Male" >Male</option>
+                                <option value="Female">Female</option>
+                          </select>
+                       </td>
+               </tr>
             <tr>
           <td height="35" align="center">
-          <label for="email" class="ui-hidden-accessible">Email</label>
-          <input type="text" name="email" id="email" placeholder="Email" class="input1">
-          </td>
-          </tr>
-             <tr>
+          <label for="dob" class="ui-hidden-accessible">DOB</label>
+           <input type="text" name="dob" id="dob" placeholder="DOB" class="input1">
+                       </td>
+               </tr>
+            <tr>
           <td height="35" align="center">
           <label for="address" class="ui-hidden-accessible">Address</label>
           <textarea type="text" name="address" id="address" placeholder="Address" class="input2" rows="2"></textarea>
           </td>
           </tr>
-               <tr>
+                 <tr>
           <td height="35" align="center">
           <label for="city" class="ui-hidden-accessible">City</label>
           <input type="text" name="city" id="city" placeholder="City" class="input1">
           </td>
           </tr>
-              <tr>
-          <td height="35" align="center">
-          <label for="facebook" class="ui-hidden-accessible">Facebook Link</label>
-          <input type="text" name="facebook" id="facebook" placeholder="Facebook Link" class="input1">
-          </td>
-          </tr>
-              <tr>
-          <td height="35" align="center">
-          <label for="twitter" class="ui-hidden-accessible">Twitter Link</label>
-          <input type="text" name="twitter" id="twitter" placeholder="Twitter Link" class="input1">
-          </td>
-          </tr>
-              <tr>
-          <td height="35" align="center">
-          <label for="linkedin" class="ui-hidden-accessible">Linkedin Link</label>
-          <input type="text" name="linkedin" id="linkedin" placeholder="Linkedin Link" class="input1">
-          </td>
-          </tr>
                <tr>
           <td height="35" align="center">
-          <label for="message" class="ui-hidden-accessible">Message</label>
-          <textarea type="text" name="message" id="message" placeholder="Message" class="input2" rows="2"></textarea>
+          <label for="state" class="ui-hidden-accessible">State</label>
+          <input type="text" name="state" id="state" placeholder="State" class="input1">
           </td>
           </tr>
+          <tr>
+          <td height="35" align="center">
+          <label for="mobile" class="ui-hidden-accessible">Mobile</label>
+          <input type="text" name="mobile" id="mobile" placeholder="Mobile" class="input1">
+          </td>
+          </tr>
+          <tr>
+          <td height="35" align="center">
+          <label for="email" class="ui-hidden-accessible">Email</label>
+          <input type="text" name="email" id="email" placeholder="Email" class="input1">
+          </td>
+          </tr>
+                 
+            
           </table>
           
          
